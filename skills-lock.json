@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "flutter-ui-slicing": {
+      "source": "sardik/flutter-ui-slicing",
+      "sourceType": "github",
+      "computedHash": "8be82902129486979c2c584a45cbdd3378423d5d59bec90ac482cd7a2f5e7a17"
+    }
+  }
+}
